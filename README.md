@@ -99,3 +99,13 @@ public class MovieController {
         }).orElse(ResponseEntity.notFound().build());
     }
 }
+
+
+## Output
+
+<img width="1399" height="1124" alt="ChatGPT Image Sep 14, 2026, 06_23_25 PM" src="https://github.com/user-attachments/assets/0e598292-665f-4a4f-80f5-2252df206022" />
+
+
+## Result
+
+Thus the Program has been executed successfully.
